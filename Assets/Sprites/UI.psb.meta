@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: d1e42dd78daf71145917098dd48c6c69
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: UI_GO/UI_GO
+    100002: UI_GO/UI_GO/Center
+    100004: UI_GO/UI_GO/HrHand
+    100006: UI_GO/UI_GO/MinHand
+    100008: UI_GO/UI_GO/SecHnad
+    100010: UI_GO/UI_GO/1
+    100012: UI_GO/UI_GO/2
+    100014: UI_GO/UI_GO/3
+    100016: UI_GO/UI_GO/4
+    100018: UI_GO/UI_GO/5
+    100020: UI_GO/UI_GO/6
+    100022: UI_GO/UI_GO/7
+    100024: UI_GO/UI_GO/8
+    100026: UI_GO/UI_GO/ClockBg
+    100028: UI_GO/UI_GO/ClockFace
+    100032: UI_GO/UI_GO/9
+    100034: UI_GO/UI_GO/10
+    100036: UI_GO/UI_GO/11
+    100038: UI_GO/UI_GO/12
+    400000: UI_GO/UI_GO/Transform
+    400002: UI_GO/UI_GO/Center/Transform
+    400004: UI_GO/UI_GO/HrHand/Transform
+    400006: UI_GO/UI_GO/MinHand/Transform
+    400008: UI_GO/UI_GO/SecHnad/Transform
+    400010: UI_GO/UI_GO/1/Transform
+    400012: UI_GO/UI_GO/2/Transform
+    400014: UI_GO/UI_GO/3/Transform
+    400016: UI_GO/UI_GO/4/Transform
+    400018: UI_GO/UI_GO/5/Transform
+    400020: UI_GO/UI_GO/6/Transform
+    400022: UI_GO/UI_GO/7/Transform
+    400024: UI_GO/UI_GO/8/Transform
+    400026: UI_GO/UI_GO/ClockBg/Transform
+    400028: UI_GO/UI_GO/ClockFace/Transform
+    400032: UI_GO/UI_GO/9/Transform
+    400034: UI_GO/UI_GO/10/Transform
+    400036: UI_GO/UI_GO/11/Transform
+    400038: UI_GO/UI_GO/12/Transform
+    2800000: UI
+    21200000: UI_GO/UI_GO/Center/SpriteRenderer
+    21200002: UI_GO/UI_GO/HrHand/SpriteRenderer
+    21200004: UI_GO/UI_GO/MinHand/SpriteRenderer
+    21200006: UI_GO/UI_GO/SecHnad/SpriteRenderer
+    21200008: UI_GO/UI_GO/1/SpriteRenderer
+    21200010: UI_GO/UI_GO/2/SpriteRenderer
+    21200012: UI_GO/UI_GO/3/SpriteRenderer
+    21200014: UI_GO/UI_GO/4/SpriteRenderer
+    21200016: UI_GO/UI_GO/5/SpriteRenderer
+    21200018: UI_GO/UI_GO/6/SpriteRenderer
+    21200020: UI_GO/UI_GO/7/SpriteRenderer
+    21200022: UI_GO/UI_GO/8/SpriteRenderer
+    21200024: UI_GO/UI_GO/ClockBg/SpriteRenderer
+    21200026: UI_GO/UI_GO/ClockFace/SpriteRenderer
+    21200030: UI_GO/UI_GO/9/SpriteRenderer
+    21200032: UI_GO/UI_GO/10/SpriteRenderer
+    21200034: UI_GO/UI_GO/11/SpriteRenderer
+    21200036: UI_GO/UI_GO/12/SpriteRenderer
+    21300000: e1412d342e59ab541ab4a1128027a058
+    21300002: 6a4913a18e6aeee4d98bbdcd4b7bfde7
+    21300004: d104f43eef9967d42a285474c1d33f2b
+    21300006: 13f271bf9448b5943a71cb7f2facb7c0
+    21300008: f03cbdb4cbeb6114fa2ee154864c3a8a
+    21300010: a0360dfd67713164ab8c9700a990a797
+    21300012: a33ae0eb12fbc2949b6657fd7fdd87b9
+    21300014: 9ef72ab3eae699d4b833519d70e2b856
+    21300016: 2d729ce37b6216d4d8b345c5bc70f6e6
+    21300018: e2ab59c34131b084ca411ee1e1c12a5c
+    21300020: d5fc7d92ef4b4834f863675c175d57a0
+    21300022: cb2c9ebf53977344b93a992bd6af8df8
+    21300024: 97f8acd8c524dc041b2f692d3a03130b
+    21300026: b0871d824c6b3d8479acc23a845f0a38
+    21300030: 0bb6650a2ecbd7543ae0d91fedd81a71
+    21300032: 7693741099a186c43a21cfe25358261e
+    21300034: f608f3ad50e309745bafe2074dd72dc1
+    21300036: b327a6ad15046f54dabb3efcebea8df3
+    100100000: UI_GO
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: ClockFace
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 863
+      width: 813
+      height: 813
+    spriteID: 97f8acd8c524dc041b2f692d3a03130b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -129, y: 309}
+  - name: ClockBg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 851
+      height: 851
+    spriteID: b0871d824c6b3d8479acc23a845f0a38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -110, y: -531}
+  - name: Center
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1684
+      width: 178
+      height: 178
+    spriteID: e1412d342e59ab541ab4a1128027a058
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -853, y: 1655}
+  - name: HrHand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 4
+      width: 45
+      height: 323
+    spriteID: 6a4913a18e6aeee4d98bbdcd4b7bfde7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 650, y: -1382}
+  - name: MinHand
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 889
+      y: 335
+      width: 18
+      height: 442
+    spriteID: d104f43eef9967d42a285474c1d33f2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 756, y: -1051}
+  - name: SecHnad
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 863
+      y: 335
+      width: 18
+      height: 462
+    spriteID: 13f271bf9448b5943a71cb7f2facb7c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 810, y: -1051}
+  - name: 12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1684
+      width: 147
+      height: 98
+    spriteID: f03cbdb4cbeb6114fa2ee154864c3a8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 197, y: 1190}
+  - name: 11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 502
+      y: 1684
+      width: 128
+      height: 97
+    spriteID: a0360dfd67713164ab8c9700a990a797
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 185, y: 1338}
+  - name: 10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 1684
+      width: 149
+      height: 100
+    spriteID: a33ae0eb12fbc2949b6657fd7fdd87b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 56, y: 1339}
+  - name: 9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 1870
+      width: 74
+      height: 100
+    spriteID: 9ef72ab3eae699d4b833519d70e2b856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 64, y: 1526}
+  - name: 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1870
+      width: 75
+      height: 99
+    spriteID: 2d729ce37b6216d4d8b345c5bc70f6e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -366, y: 1683}
+  - name: 7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 401
+      y: 1870
+      width: 69
+      height: 98
+    spriteID: e2ab59c34131b084ca411ee1e1c12a5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 142, y: 1682}
+  - name: 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 638
+      y: 1684
+      width: 75
+      height: 100
+    spriteID: d5fc7d92ef4b4834f863675c175d57a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 499, y: 1500}
+  - name: 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 324
+      y: 1870
+      width: 69
+      height: 99
+    spriteID: cb2c9ebf53977344b93a992bd6af8df8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 299, y: 1683}
+  - name: 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 721
+      y: 1684
+      width: 77
+      height: 97
+    spriteID: 0bb6650a2ecbd7543ae0d91fedd81a71
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 347, y: 1651}
+  - name: 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 169
+      y: 1870
+      width: 69
+      height: 100
+    spriteID: 7693741099a186c43a21cfe25358261e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -91, y: 1840}
+  - name: 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 246
+      y: 1870
+      width: 70
+      height: 98
+    spriteID: f608f3ad50e309745bafe2074dd72dc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 106, y: 1841}
+  - name: 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 1870
+      width: 45
+      height: 97
+    spriteID: b327a6ad15046f54dabb3efcebea8df3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 459, y: 1841}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1080, y: 1920}
+  textureActualWidth: 1024
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: 12
+    spriteName: 12
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f03cbdb4cbeb6114fa2ee154864c3a8a
+    layerID: 62
+    mosaicPosition: {x: 347, y: 1684}
+  - name: 11
+    spriteName: 11
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a0360dfd67713164ab8c9700a990a797
+    layerID: 61
+    mosaicPosition: {x: 502, y: 1684}
+  - name: 10
+    spriteName: 10
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a33ae0eb12fbc2949b6657fd7fdd87b9
+    layerID: 60
+    mosaicPosition: {x: 190, y: 1684}
+  - name: 9
+    spriteName: 9
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9ef72ab3eae699d4b833519d70e2b856
+    layerID: 59
+    mosaicPosition: {x: 87, y: 1870}
+  - name: 8
+    spriteName: 8
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2d729ce37b6216d4d8b345c5bc70f6e6
+    layerID: 58
+    mosaicPosition: {x: 4, y: 1870}
+  - name: 7
+    spriteName: 7
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e2ab59c34131b084ca411ee1e1c12a5c
+    layerID: 57
+    mosaicPosition: {x: 401, y: 1870}
+  - name: 6
+    spriteName: 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d5fc7d92ef4b4834f863675c175d57a0
+    layerID: 56
+    mosaicPosition: {x: 638, y: 1684}
+  - name: 5
+    spriteName: 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cb2c9ebf53977344b93a992bd6af8df8
+    layerID: 55
+    mosaicPosition: {x: 324, y: 1870}
+  - name: 4
+    spriteName: 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0bb6650a2ecbd7543ae0d91fedd81a71
+    layerID: 54
+    mosaicPosition: {x: 721, y: 1684}
+  - name: 3
+    spriteName: 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7693741099a186c43a21cfe25358261e
+    layerID: 53
+    mosaicPosition: {x: 169, y: 1870}
+  - name: 2
+    spriteName: 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f608f3ad50e309745bafe2074dd72dc1
+    layerID: 52
+    mosaicPosition: {x: 246, y: 1870}
+  - name: 1
+    spriteName: 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b327a6ad15046f54dabb3efcebea8df3
+    layerID: 51
+    mosaicPosition: {x: 478, y: 1870}
+  - name: Center
+    spriteName: Center
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e1412d342e59ab541ab4a1128027a058
+    layerID: 47
+    mosaicPosition: {x: 4, y: 1684}
+  - name: HrHand
+    spriteName: HrHand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6a4913a18e6aeee4d98bbdcd4b7bfde7
+    layerID: 46
+    mosaicPosition: {x: 863, y: 4}
+  - name: MinHand
+    spriteName: MinHand
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d104f43eef9967d42a285474c1d33f2b
+    layerID: 45
+    mosaicPosition: {x: 889, y: 335}
+  - name: SecHnad
+    spriteName: SecHnad
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 13f271bf9448b5943a71cb7f2facb7c0
+    layerID: 44
+    mosaicPosition: {x: 863, y: 335}
+  - name: ClockFace
+    spriteName: ClockFace
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 97f8acd8c524dc041b2f692d3a03130b
+    layerID: 39
+    mosaicPosition: {x: 4, y: 863}
+  - name: ClockBg
+    spriteName: ClockBg
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b0871d824c6b3d8479acc23a845f0a38
+    layerID: 38
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+  boneGOs: []
+  generateGOHierarchy: 0
+  textureAssetName: UI
+  prefabAssetName: UI_GO
